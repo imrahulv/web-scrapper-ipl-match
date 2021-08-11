@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Joey",
+    "last Name": "Tribbiani",
+    "isActor": true,
+    "friends": ["Monica", "Rachel"],
+    "age": 45,
+    "address": { "city": "New Jersey" }
+  },
+  {
+    "name": "Chandler",
+    "last Name": "Bing",
+    "isActor": true,
+    "friends": ["Monica", "Rachel"],
+    "age": 45,
+    "address": { "city": "New Jersey" }
+  },
+  {
+    "name": "Ross",
+    "last Name": "Geller",
+    "isActor": true,
+    "friends": ["Monica", "Rachel"],
+    "age": 45,
+    "address": { "city": "New Jersey" }
+  },
+  {
+    "name": "Ross",
+    "last Name": "Geller",
+    "isActor": true,
+    "friends": ["Monica", "Rachel"],
+    "age": 45,
+    "address": { "city": "New Jersey" }
+  }
+]
